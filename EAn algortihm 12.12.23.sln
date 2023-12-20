@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAn algortihm 12.12.23", "EAn algortihm 12.12.23\EAn algortihm 12.12.23.csproj", "{FDBA7E33-7775-48AF-B3F2-E20D02A2306A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBA7E33-7775-48AF-B3F2-E20D02A2306A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBA7E33-7775-48AF-B3F2-E20D02A2306A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBA7E33-7775-48AF-B3F2-E20D02A2306A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBA7E33-7775-48AF-B3F2-E20D02A2306A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA3BA08-EE53-4B22-AE80-AB30E2791C76}
+	EndGlobalSection
+EndGlobal
